@@ -1,0 +1,21 @@
+h1{
+    font-size: 42;
+    color:white;
+    font-stretch: expanded;
+    background-color: rgb(77, 75, 75);
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+       }
+.posts{
+    font-size-adjust: initial;
+    font-optical-sizing: auto;
+    background-color: rgb(231, 224, 224)
+    padding: 200px
+    ;
+
+    }
+.body{
+    background-color:blanchedalmond;
+    font-family:Tahoma;
+}
